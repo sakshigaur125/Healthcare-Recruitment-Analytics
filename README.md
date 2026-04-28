@@ -4,7 +4,7 @@
 This project is an end-to-end data analytics solution designed to track and optimize healthcare recruitment. I built this from scratch—starting from database design in SQL to building an interactive visualization dashboard in Power BI—to analyze hiring pipelines, salary trends, and candidate distribution.
 
 ## Key Features
-* **Database Design:** Created a relational database with `Candidates.csv`, `Job_openings.csv`, and `Applications.csv` tables to map the recruitment workflow.
+* **Database Design:** Created a relational database with [Candidates.csv](./Candidates.csv), [Job_openings.csv](./Job_openings.csv), and [Applications.csv](./Applications.csv) tables to map the recruitment workflow.
 * **Data Analysis:** Wrote SQL queries to extract hiring metrics, vacancy statuses, and salary insights.
 * **Interactive Dashboard:** Developed a Power BI report with custom DAX measures, KPI cards, and trend analysis.
 * **Business Insights:** Identified key factors influencing time-to-fill and salary benchmarks in the medical sector.
@@ -20,8 +20,8 @@ This project is an end-to-end data analytics solution designed to track and opti
 * The Delhi region is a primary talent hub with the highest average salary benchmarks.
 
 ## Repository Contents
-* `Healthcare_Recruitment_Performance_Analytics.pbix` — Interactive Power BI Dashboard.
-* `Healthcare_Medical_Recruitment.sql` — Database schema and data insertion scripts.
-* `analysis_queries.sql` — SQL analysis scripts.
-* `Data/` — CSV datasets used for modeling.
-* `Images/` — Dashboard screenshots and database schema diagram.
+* [Healthcare_Recruitment_Performance_Analytics](./Healthcare_Recruitment_Performance_Analytics.pbix) — Interactive Power BI Dashboard.
+* [Healthcare_Medical_Recruitment.sql](./Healthcare_Medical_Recruitment.sql) — Database schema and data insertion scripts.
+* [analysis_queries.sql.sql](./analysis_queries.sql.sql) — SQL analysis scripts.
+* [Data](./Data) — CSV datasets used for modeling.
+* [Images](./Images) — Dashboard screenshots and database schema diagram.
