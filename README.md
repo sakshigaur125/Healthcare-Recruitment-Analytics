@@ -4,7 +4,7 @@
 This project is an end-to-end data analytics solution designed to track and optimize healthcare recruitment. I built this from scratch—starting from database design in SQL to building an interactive visualization dashboard in Power BI—to analyze hiring pipelines, salary trends, and candidate distribution.
 
 ## Key Features
-* **Database Design:** Created a relational database with [Candidates.csv](./Candidates.csv), [Job_openings.csv](./Job_openings.csv), and [Applications.csv](./Applications.csv) tables to map the recruitment workflow.
+* **Database Design:** Created a relational database with [Candidates](./Candidates.csv), [Job_openings](./Job_openings.csv), and [Applications](./Applications.csv) tables to map the recruitment workflow.
 * **Data Analysis:** Wrote SQL queries to extract hiring metrics, vacancy statuses, and salary insights.
 * **Interactive Dashboard:** Developed a Power BI report with custom DAX measures, KPI cards, and trend analysis.
 * **Business Insights:** Identified key factors influencing time-to-fill and salary benchmarks in the medical sector.
@@ -21,7 +21,10 @@ This project is an end-to-end data analytics solution designed to track and opti
 
 ## Repository Contents
 * [Healthcare_Recruitment_Performance_Analytics](./Healthcare_Recruitment_Performance_Analytics.pbix) — Interactive Power BI Dashboard.
-* [Healthcare_Medical_Recruitment.sql](./Healthcare_Medical_Recruitment.sql) — Database schema and data insertion scripts.
-* [analysis_queries.sql.sql](./analysis_queries.sql.sql) — SQL analysis scripts.
-* [Data](./Data) — CSV datasets used for modeling.
-* [Images](./Images) — Dashboard screenshots and database schema diagram.
+* [Healthcare_Medical_Recruitment](./Healthcare_Medical_Recruitment.sql) — Database schema and data insertion scripts.
+* [analysis_queries](./analysis_queries.sql) — SQL analysis scripts.
+* [Applications](./Applications.csv) — Applications dataset
+* [Candidates](./Candidates.csv) — Candidates dataset
+* [Job-Openings](./Job_openings.csv) — Jobs dataset
+* [sql-schema-or-relationship-diagram](./sql-schema-or-relationship-diagram.jpg) — Database schema diagram
+* [dashboard-preview](./dashboard-preview.jpg) — Dashboard preview
