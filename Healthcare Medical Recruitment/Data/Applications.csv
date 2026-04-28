@@ -1,0 +1,61 @@
+Job_Id,Application_id,Candidate_name,Email,Applied_date,Current_role,Current_salary_package,Job_role,Expected_salary_package,Job_type,Application_status,Offer_from,Offered_locations,Hired_at,Hired_location,Current_location,Preferred_location,Offered_salary_package,Final_salary_package,Exam_status
+101,1,Ananya Sharma,ananya.sharma01@gmail.com,2026-01-11,Senior Resident,11.50,Assistant Professor,18.00,College,Follow-up,NULL,NULL,NULL,NULL,Delhi,Delhi,NULL,NULL,No
+102,2,Rohit Verma,rohit.verma02@gmail.com,2026-01-12,Assistant Professor,14.20,Associate Professor,22.00,College,Meeting done,NULL,NULL,NULL,NULL,Delhi,Delhi,NULL,NULL,Yes
+103,3,Priya Gupta,priya.gupta03@gmail.com,2026-01-13,Senior Resident,10.80,Assistant Professor,17.50,College,Offered,AIIMS New Delhi,Delhi,NULL,NULL,Delhi,Delhi,18.00,NULL,Yes
+104,4,Karan Mehta,karan.mehta04@gmail.com,2026-01-14,Associate Professor,20.00,Professor,28.00,College,Hired,NULL,NULL,Maulana Azad Medical College,Delhi,Delhi,Delhi,28.50,28.50,Yes
+105,5,Neha Reddy,neha.reddy05@gmail.com,2026-01-15,Senior Resident,12.00,Assistant Professor,18.50,College,Rejected,NULL,NULL,NULL,NULL,Mumbai,Mumbai,NULL,NULL,No
+106,6,Arjun Singh,arjun.singh06@gmail.com,2026-01-16,Assistant Professor,13.50,Associate Professor,21.50,College,Follow-up,NULL,NULL,NULL,NULL,Lucknow,Lucknow,NULL,NULL,Yes
+107,7,Sneha Iyer,sneha.iyer07@gmail.com,2026-01-17,Senior Resident,11.00,Assistant Professor,17.00,College,Meeting done,NULL,NULL,NULL,NULL,Chennai,Chennai,NULL,NULL,Yes
+108,8,Vikram Joshi,vikram.joshi08@gmail.com,2026-01-18,Associate Professor,19.80,Professor,29.00,College,Offered,KGMU Lucknow,Lucknow,NULL,NULL,Lucknow,Lucknow,29.00,NULL,Yes
+109,9,Pooja Nair,pooja.nair09@gmail.com,2026-01-19,Senior Resident,10.50,Assistant Professor,16.50,College,Hired,NULL,NULL,Lady Hardinge Medical College,Delhi,Delhi,Delhi,17.00,17.00,No
+110,10,Rahul Das,rahul.das10@gmail.com,2026-01-20,Assistant Professor,14.00,Associate Professor,21.00,College,Rejected,NULL,NULL,NULL,NULL,Kolkata,Delhi,NULL,NULL,Yes
+111,11,Meera Kapoor,meera.kapoor11@gmail.com,2026-01-21,Senior Resident,11.20,Assistant Professor,17.20,College,Follow-up,NULL,NULL,NULL,NULL,Delhi,Delhi,NULL,NULL,Yes
+112,12,Sahil Khan,sahil.khan12@gmail.com,2026-01-22,Assistant Professor,15.00,Associate Professor,23.00,College,Meeting done,NULL,NULL,NULL,NULL,Hyderabad,Hyderabad,NULL,NULL,Yes
+113,13,Isha Malhotra,isha.malhotra13@gmail.com,2026-01-23,Senior Resident,10.70,Assistant Professor,16.80,College,Offered,VMMC and Safdarjung Medical College,Delhi,NULL,NULL,Delhi,Delhi,17.50,NULL,Yes
+114,14,Aman Yadav,aman.yadav14@gmail.com,2026-01-24,Associate Professor,20.50,Professor,30.00,College,Hired,NULL,NULL,Stanley Medical College,Chennai,Chennai,Chennai,30.00,30.00,Yes
+115,15,Nidhi Pandey,nidhi.pandey15@gmail.com,2026-01-25,Senior Resident,11.30,Assistant Professor,17.10,College,Rejected,NULL,NULL,NULL,NULL,Mumbai,Mumbai,NULL,NULL,No
+116,16,Farhan Ali,farhan.ali16@gmail.com,2026-01-26,Assistant Professor,14.10,Associate Professor,21.80,College,Follow-up,NULL,NULL,NULL,NULL,Delhi,Delhi,NULL,NULL,Yes
+117,17,Tanya Singh,tanya.singh17@gmail.com,2026-01-27,Senior Resident,10.90,Assistant Professor,16.90,College,Meeting done,NULL,NULL,NULL,NULL,Bengaluru,Bengaluru,NULL,NULL,Yes
+118,18,Kabir Rao,kabir.rao18@gmail.com,2026-01-28,Associate Professor,19.90,Professor,28.80,College,Offered,Seth GS Medical College,Mumbai,NULL,NULL,Mumbai,Mumbai,29.00,NULL,Yes
+119,19,Simran Khurana,simran.khurana19@gmail.com,2026-01-29,Senior Resident,11.60,Assistant Professor,17.40,College,Hired,NULL,NULL,Grant Medical College,Mumbai,Mumbai,Mumbai,17.90,17.90,No
+120,20,Dev Patel,dev.patel20@gmail.com,2026-01-30,Assistant Professor,13.80,Associate Professor,22.20,College,Rejected,NULL,NULL,NULL,NULL,Ahmedabad,Ahmedabad,NULL,NULL,Yes
+121,21,Riya Mehta,riya.mehta21@gmail.com,2026-02-01,Senior Resident,11.40,Assistant Professor,17.60,College,Follow-up,NULL,NULL,NULL,NULL,Delhi,Delhi,NULL,NULL,Yes
+122,22,Akash Jain,akash.jain22@gmail.com,2026-02-02,Assistant Professor,14.30,Associate Professor,22.40,College,Meeting done,NULL,NULL,NULL,NULL,Lucknow,Lucknow,NULL,NULL,Yes
+123,23,Mira Bose,mira.bose23@gmail.com,2026-02-03,Senior Resident,10.60,Assistant Professor,16.70,College,Offered,Madras Medical College,Chennai,NULL,NULL,Chennai,Chennai,17.20,NULL,Yes
+124,24,Suresh Kumar,suresh.kumar24@gmail.com,2026-02-04,Associate Professor,20.20,Professor,29.50,College,Hired,NULL,NULL,B.J. Medical College,Ahmedabad,Ahmedabad,Ahmedabad,29.80,29.80,Yes
+125,25,Ritu Agarwal,ritu.agarwal25@gmail.com,2026-02-05,Senior Resident,11.10,Assistant Professor,17.00,College,Rejected,NULL,NULL,NULL,NULL,Puducherry,Puducherry,NULL,NULL,No
+126,26,Naman Sethi,naman.sethi26@gmail.com,2026-02-06,Assistant Professor,14.40,Associate Professor,22.60,College,Follow-up,NULL,NULL,NULL,NULL,Bengaluru,Bengaluru,NULL,NULL,Yes
+127,27,Shreya Menon,shreya.menon27@gmail.com,2026-02-07,Senior Resident,10.90,Assistant Professor,16.90,College,Meeting done,NULL,NULL,NULL,NULL,Kochi,Kochi,NULL,NULL,Yes
+128,28,Deepak Rana,deepak.rana28@gmail.com,2026-02-08,Associate Professor,19.70,Professor,28.50,College,Offered,JIPMER,Puducherry,NULL,NULL,Puducherry,Puducherry,28.90,NULL,Yes
+129,29,Anita Paul,anita.paul29@gmail.com,2026-02-09,Senior Resident,11.70,Assistant Professor,17.80,College,Hired,NULL,NULL,Christian Medical College Vellore,Vellore,Vellore,Vellore,18.10,18.10,No
+130,30,Tarun Vohra,tarun.vohra30@gmail.com,2026-02-10,Assistant Professor,13.90,Associate Professor,21.90,College,Rejected,NULL,NULL,NULL,NULL,Varanasi,Varanasi,NULL,NULL,Yes
+131,31,Kavya Sharma,kavya.sharma31@gmail.com,2026-02-11,Senior Resident,11.00,Assistant Professor,17.20,College,Follow-up,NULL,NULL,NULL,NULL,Delhi,Delhi,NULL,NULL,Yes
+132,32,Mohit Arora,mohit.arora32@gmail.com,2026-02-12,Assistant Professor,14.60,Associate Professor,22.80,College,Meeting done,NULL,NULL,NULL,NULL,Mumbai,Mumbai,NULL,NULL,Yes
+133,33,Anusha Rao,anusha.rao33@gmail.com,2026-02-13,Senior Resident,10.70,Assistant Professor,16.60,College,Offered,Kasturba Medical College Manipal,Manipal,NULL,NULL,Manipal,Manipal,17.10,NULL,Yes
+134,34,Rajat Bhatia,rajat.bhatia34@gmail.com,2026-02-14,Associate Professor,20.10,Professor,29.10,College,Hired,NULL,NULL,IMS BHU,Varanasi,Varanasi,Varanasi,29.40,29.40,Yes
+135,35,Neelam Verma,neelam.verma35@gmail.com,2026-02-15,Senior Resident,11.20,Assistant Professor,17.30,College,Rejected,NULL,NULL,NULL,NULL,Chennai,Chennai,NULL,NULL,No
+136,36,Aakash Singh,aakash.singh36@gmail.com,2026-02-16,Assistant Professor,14.20,Associate Professor,22.10,College,Follow-up,NULL,NULL,NULL,NULL,Delhi,Delhi,NULL,NULL,Yes
+137,37,Pallavi Jain,pallavi.jain37@gmail.com,2026-02-17,Senior Resident,11.30,Assistant Professor,17.40,College,Meeting done,NULL,NULL,NULL,NULL,Hyderabad,Hyderabad,NULL,NULL,Yes
+138,38,Sanjay Khanna,sanjay.khanna38@gmail.com,2026-02-18,Associate Professor,19.90,Professor,28.90,College,Offered,AIIMS New Delhi,Delhi,NULL,NULL,Delhi,Delhi,29.20,NULL,Yes
+139,39,Divya Nair,divya.nair39@gmail.com,2026-02-19,Senior Resident,10.80,Assistant Professor,16.80,College,Hired,NULL,NULL,KGMU Lucknow,Lucknow,Lucknow,Lucknow,17.30,17.30,No
+140,40,Harsh Malhotra,harsh.malhotra40@gmail.com,2026-02-20,Assistant Professor,14.00,Associate Professor,21.70,College,Rejected,NULL,NULL,NULL,NULL,Mumbai,Mumbai,NULL,NULL,Yes
+141,41,Sana Khan,sana.khan41@gmail.com,2026-02-21,Senior Resident,11.50,Assistant Professor,17.60,College,Follow-up,NULL,NULL,NULL,NULL,Delhi,Delhi,NULL,NULL,Yes
+142,42,Prateek Gupta,prateek.gupta42@gmail.com,2026-02-22,Assistant Professor,14.80,Associate Professor,22.90,College,Meeting done,NULL,NULL,NULL,NULL,Chennai,Chennai,NULL,NULL,Yes
+143,43,Ayesha Siddiqui,ayesha.siddiqui43@gmail.com,2026-02-23,Senior Resident,10.60,Assistant Professor,16.50,College,Offered,Madras Medical College,Chennai,NULL,NULL,Chennai,Chennai,17.00,NULL,Yes
+144,44,Gaurav Sinha,gaurav.sinha44@gmail.com,2026-02-24,Associate Professor,20.40,Professor,29.60,College,Hired,NULL,NULL,Stanley Medical College,Chennai,Chennai,Chennai,30.00,30.00,Yes
+145,45,Mansi Jain,mansi.jain45@gmail.com,2026-02-25,Senior Resident,11.00,Assistant Professor,17.10,College,Rejected,NULL,NULL,NULL,NULL,Ahmedabad,Ahmedabad,NULL,NULL,No
+146,46,Yash Raj,yash.raj46@gmail.com,2026-02-26,Assistant Professor,14.50,Associate Professor,22.20,College,Follow-up,NULL,NULL,NULL,NULL,Delhi,Delhi,NULL,NULL,Yes
+147,47,Komal Seth,komal.seth47@gmail.com,2026-02-27,Senior Resident,11.10,Assistant Professor,17.20,College,Meeting done,NULL,NULL,NULL,NULL,Mumbai,Mumbai,NULL,NULL,Yes
+148,48,Rahul Sood,rahul.sood48@gmail.com,2026-02-28,Associate Professor,20.00,Professor,29.20,College,Offered,Christian Medical College Vellore,Vellore,NULL,NULL,Vellore,Vellore,29.50,NULL,Yes
+149,49,Ira Dutta,ira.dutta49@gmail.com,2026-03-01,Senior Resident,10.90,Assistant Professor,16.70,College,Hired,NULL,NULL,JIPMER,Puducherry,Puducherry,Puducherry,17.20,17.20,No
+150,50,Siddharth Rao,siddharth.rao50@gmail.com,2026-03-02,Assistant Professor,14.00,Associate Professor,21.60,College,Rejected,NULL,NULL,NULL,NULL,Kochi,Kochi,NULL,NULL,Yes
+151,51,Bhavna Joshi,bhavna.joshi51@gmail.com,2026-03-03,Senior Resident,11.20,Assistant Professor,17.30,College,Follow-up,NULL,NULL,NULL,NULL,Delhi,Delhi,NULL,NULL,Yes
+152,52,Varun Kapoor,varun.kapoor52@gmail.com,2026-03-04,Assistant Professor,14.70,Associate Professor,22.70,College,Meeting done,NULL,NULL,NULL,NULL,Lucknow,Lucknow,NULL,NULL,Yes
+153,53,Naina Roy,naina.roy53@gmail.com,2026-03-05,Senior Resident,10.80,Assistant Professor,16.90,College,Offered,B.J. Medical College,Ahmedabad,NULL,NULL,Ahmedabad,Ahmedabad,17.40,NULL,Yes
+154,54,Arun Thomas,arun.thomas54@gmail.com,2026-03-06,Associate Professor,19.80,Professor,28.70,College,Hired,NULL,NULL,Government Medical College Kozhikode,Kozhikode,Kozhikode,Kozhikode,29.10,29.10,Yes
+155,55,Madhuri Das,madhuri.das55@gmail.com,2026-03-07,Senior Resident,11.00,Assistant Professor,17.00,College,Rejected,NULL,NULL,NULL,NULL,Bengaluru,Bengaluru,NULL,NULL,No
+156,56,Kunal Suri,kunal.suri56@gmail.com,2026-03-08,Assistant Professor,14.10,Associate Professor,21.90,College,Follow-up,NULL,NULL,NULL,NULL,Puducherry,Puducherry,NULL,NULL,Yes
+157,57,Prachi Singh,prachi.singh57@gmail.com,2026-03-09,Senior Resident,11.40,Assistant Professor,17.50,College,Meeting done,NULL,NULL,NULL,NULL,Varanasi,Varanasi,NULL,NULL,Yes
+158,58,Ramesh Iyer,ramesh.iyer58@gmail.com,2026-03-10,Associate Professor,20.30,Professor,29.40,College,Offered,IMS BHU,Varanasi,NULL,NULL,Varanasi,Varanasi,29.70,NULL,Yes
+159,59,Swati Paul,swati.paul59@gmail.com,2026-03-11,Senior Resident,10.70,Assistant Professor,16.60,College,Hired,NULL,NULL,Amrita School of Medicine,Kochi,Kochi,Kochi,17.10,17.10,No
+160,60,Om Prakash,om.prakash60@gmail.com,2026-03-12,Assistant Professor,14.40,Associate Professor,22.00,College,Rejected,NULL,NULL,NULL,NULL,Delhi,Delhi,NULL,NULL,Yes
