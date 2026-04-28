@@ -25,6 +25,6 @@ This project is an end-to-end data analytics solution designed to track and opti
 * [analysis_queries](./analysis_queries.sql) — SQL analysis scripts.
 * [Applications](./Applications.csv) — Applications dataset
 * [Candidates](./Candidates.csv) — Candidates dataset
-* [Job-Openings](./Job_openings.csv) — Jobs dataset
-* [sql-schema-or-relationship-diagram](./sql-schema-or-relationship-diagram.jpg) — Database schema diagram
-* [dashboard-preview](./dashboard-preview.jpg) — Dashboard preview
+* [Job_openings](./Job_openings.csv) — Jobs dataset
+* [sql-schema-or-relationship-diagram](./sql-schema-or-relationship-diagram.png) — Database schema diagram
+* [dashboard-preview](./dashboard-preview.png) — Dashboard preview
