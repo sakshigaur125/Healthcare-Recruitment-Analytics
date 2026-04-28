@@ -1,0 +1,61 @@
+Job_Id,Institution_Name,Job_Type,Department,Job_Role,Specialization,Location,Posted_Date,Vacancy_Count,Status
+101,AIIMS New Delhi,College,Anatomy,Assistant Professor,Anatomy,Delhi,2026-01-10,2,Open
+102,AIIMS New Delhi,College,Physiology,Associate Professor,Physiology,Delhi,2026-01-12,1,Open
+103,AIIMS New Delhi,College,Biochemistry,Assistant Professor,Biochemistry,Delhi,2026-01-15,2,Open
+104,Maulana Azad Medical College,College,General Medicine,Professor,Internal Medicine,Delhi,2026-01-18,1,Open
+105,Maulana Azad Medical College,College,Pathology,Senior Resident,Pathology,Delhi,2026-01-20,3,Open
+106,Lady Hardinge Medical College,College,Pharmacology,Assistant Professor,Pharmacology,Delhi,2026-01-22,2,Open
+107,Lady Hardinge Medical College,College,Microbiology,Senior Resident,Microbiology,Delhi,2026-01-24,2,Open
+108,University College of Medical Sciences,College,Community Medicine,Associate Professor,Community Medicine,Delhi,2026-01-26,1,Open
+109,VMMC and Safdarjung Medical College,College,Ophthalmology,Assistant Professor,Ophthalmology,Delhi,2026-01-28,2,Open
+110,VMMC and Safdarjung Medical College,College,ENT,Senior Resident,Otorhinolaryngology,Delhi,2026-01-30,3,Open
+111,KGMU Lucknow,College,Paediatrics,Professor,Paediatrics,Lucknow,2026-02-01,1,Open
+112,KGMU Lucknow,College,Radiology,Associate Professor,Radio Diagnosis,Lucknow,2026-02-03,1,Open
+113,KGMU Lucknow,College,Psychiatry,Assistant Professor,Psychiatry,Lucknow,2026-02-05,2,Open
+114,Dr. Ram Manohar Lohia Medical College,College,Medicine,Senior Resident,Internal Medicine,Lucknow,2026-02-07,3,Open
+115,Dr. Ram Manohar Lohia Medical College,College,Surgery,Senior Resident,General Surgery,Lucknow,2026-02-09,3,Open
+116,Dr. Ram Manohar Lohia Medical College,College,Orthopaedics,Assistant Professor,Orthopaedics,Lucknow,2026-02-11,2,Open
+117,Seth GS Medical College,College,Dermatology,Professor,Dermatology,Mumbai,2026-02-13,1,Open
+118,Seth GS Medical College,College,Obstetrics & Gynaecology,Associate Professor,OBG,Mumbai,2026-02-15,1,Open
+119,Grant Medical College,College,Ophthalmology,Assistant Professor,Ophthalmology,Mumbai,2026-02-19,2,Open
+120,Grant Medical College,College,Microbiology,Senior Resident,Microbiology,Mumbai,2026-02-21,3,Open
+121,Tata Memorial Hospital (Medical College wing),College,Medical Oncology,Assistant Professor,Medical Oncology,Mumbai,2026-02-23,2,Open
+122,Tata Memorial Hospital (Medical College wing),College,Surgical Oncology,Associate Professor,Surgical Oncology,Mumbai,2026-02-25,1,Closed
+123,JJ Group of Hospitals (Medical College wing),College,Paediatrics,Senior Resident,Paediatrics,Mumbai,2026-02-27,3,Open
+124,Lilavati Hospital (College-affiliated),College,Cardiology,Assistant Professor,Cardiology,Mumbai,2026-02-28,2,Open
+125,Stanley Medical College,College,Medicine,Professor,Internal Medicine,Chennai,2026-03-01,1,Open
+126,Stanley Medical College,College,Surgery,Senior Resident,General Surgery,Chennai,2026-03-03,3,Open
+127,Stanley Medical College,College,Dermatology,Assistant Professor,Dermatology,Chennai,2026-03-05,2,Open
+128,Madras Medical College,College,Paediatrics,Associate Professor,Paediatrics,Chennai,2026-03-07,1,Open
+129,Madras Medical College,College,Anaesthesia,Senior Resident,Anaesthesiology,Chennai,2026-03-09,3,Open
+130,Madras Medical College,College,Radiology,Assistant Professor,Radio Diagnosis,Chennai,2026-03-11,2,Open
+131,Government Kilpauk Medical College,College,Orthopaedics,Professor,Orthopaedics,Chennai,2026-03-13,1,Open
+132,Government Kilpauk Medical College,College,General Medicine,Senior Resident,Internal Medicine,Chennai,2026-03-15,3,Open
+133,B.J. Medical College,College,ENT,Associate Professor,Otorhinolaryngology,Ahmedabad,2026-03-17,1,Open
+134,B.J. Medical College,College,Dermatology,Senior Resident,Dermatology,Ahmedabad,2026-03-19,3,Open
+135,B.J. Medical College,College,Radiology,Assistant Professor,Radio Diagnosis,Ahmedabad,2026-03-21,2,Open
+136,B.J. Medical College,College,Medicine,Professor,Internal Medicine,Ahmedabad,2026-03-23,1,Closed
+137,Government Medical College Kozhikode,College,Psychiatry,Senior Resident,Psychiatry,Kozhikode,2026-03-25,3,Open
+138,Government Medical College Kozhikode,College,Dermatology,Assistant Professor,Dermatology,Kozhikode,2026-03-27,2,Open
+139,Government Medical College Kottayam,College,Medicine,Senior Resident,Internal Medicine,Kottayam,2026-03-29,3,Open
+140,Amrita School of Medicine,College,Nephrology,Assistant Professor,Nephrology,Kochi,2026-03-31,2,Open
+141,Amrita School of Medicine,College,Cardiology,Associate Professor,Cardiology,Kochi,2026-04-02,1,Open
+142,Christian Medical College Vellore,College,Neurology,Professor,Neurology,Vellore,2026-04-04,1,Closed
+143,Christian Medical College Vellore,College,Surgery,Senior Resident,General Surgery,Vellore,2026-04-06,3,Open
+144,Christian Medical College Vellore,College,Anaesthesia,Assistant Professor,Anaesthesiology,Vellore,2026-04-08,2,Open
+145,St Johns Medical College,College,Palliative Medicine,Associate Professor,Palliative Medicine,Bengaluru,2026-04-10,1,Open
+146,St Johns Medical College,College,General Medicine,Assistant Professor,Internal Medicine,Bengaluru,2026-04-12,2,Open
+147,Kasturba Medical College Manipal,College,Orthopaedics,Professor,Orthopaedics,Manipal,2026-04-14,1,Open
+148,Kasturba Medical College Manipal,College,Radiology,Senior Resident,Radio Diagnosis,Manipal,2026-04-16,3,Open
+149,JIPMER,College,Pharmacology,Assistant Professor,Pharmacology,Puducherry,2026-04-18,2,Open
+150,JIPMER,College,Community Medicine,Associate Professor,Community Medicine,Puducherry,2026-04-20,1,Open
+151,IMS BHU,College,General Surgery,Professor,General Surgery,Varanasi,2026-04-22,1,Open
+152,IMS BHU,College,Dermatology,Senior Resident,Dermatology,Varanasi,2026-04-24,3,Open
+153,Apollo Hospital Delhi,Hospital,Cardiology,Consultant,Cardiology,Delhi,2026-04-25,2,Open
+154,Fortis Escorts Hospital,Hospital,Neurology,Consultant,Neurology,Delhi,2026-04-25,1,Open
+155,Max Super Speciality Hospital,Hospital,Emergency,Medical Officer,Emergency Medicine,Delhi,2026-04-25,2,Open
+156,BLK-Max Super Speciality Hospital,Hospital,General Surgery,Consultant,General Surgery,Delhi,2026-04-25,1,Open
+157,Sir Ganga Ram Hospital,Hospital,Nephrology,Consultant,Nephrology,Delhi,2026-04-25,1,Open
+158,Ram Manohar Lohia Hospital,Hospital,Emergency,Medical Officer,Emergency Medicine,Delhi,2026-04-25,2,Open
+159,Medanta The Medicity,Hospital,Cardiology,Consultant,Cardiology,Gurugram,2026-04-25,1,Open
+160,Medanta The Medicity,Hospital,Neurology,Senior Resident,Neurology,Gurugram,2026-04-25,2,Open
